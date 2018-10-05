@@ -1,0 +1,7 @@
+{
+	"require" : {
+		"php-curl-class/php-curl-class": "7.3.0",
+		"nette/mail": "^2.4",
+		"pingplusplus/pingpp-php": "^2.2"
+	}
+}
